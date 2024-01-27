@@ -38,7 +38,7 @@ public class EmployeeServiceImpl implements EmployeeService {
 
     @Override
     public Employee updateEmployee(Employee employee) {
-        return employeeRepository.save(employee); // JPA save metodu hem kaydetme hem de güncelleme işlemi yapabilir.
+        return employeeRepository.save(employee);
     }
 }
 
