@@ -2,7 +2,6 @@ package org.work.springworkv3.controller;
 
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.work.springworkv3.core.results.DataResult;
