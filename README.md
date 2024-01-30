@@ -18,7 +18,7 @@ To get started with these projects, you'll need the following prerequisites inst
 
 ### Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/yourusername/SpringBootWork.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/sogutemir/SpringBootWork.git`.
 2. Navigate into the project directory of the version you want to work with (e.g., `cd SpringBootWork`).
 3. To build the project, run `mvn clean install`.
 4. To run the Spring Boot application, execute `mvn spring-boot:run`.
@@ -31,7 +31,7 @@ Here's how you can use each version of the projects:
 - In `SpringWorkV2`, you can test the new controllers by ...
 - `SpringWorkV3` demonstrates a generic controller structure, which can be utilized by ...
 
-Project Link: [https://github.com/yourusername/SpringBootWork](https://github.com/yourusername/SpringBootWork)
+Project Link: [https://github.com/sogutemir/SpringBootWork](https://github.com/sogutemir/SpringBootWork)
 
 ## Acknowledgements
 
